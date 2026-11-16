@@ -1,6 +1,10 @@
 # ESP32 Game Station
 
+![ESP32](https://img.shields.io/badge/ESP32-dual--core-E7352C?logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-PlatformIO-00599C?logo=cplusplus&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-dual--core-2e7d32) ![License](https://img.shields.io/badge/License-MIT-green)
+
 A handheld retro game console built around an **ESP32**, a **128×64 OLED display** (SSD1306) and a **6-axis IMU** (MPU6050). The device has a single push-button and uses physical tilt as the primary input — no joystick needed.
+
+**Contents:** [Hardware](#hardware) · [Games (20 titles)](#games-20-titles) · [Architecture](#architecture) · [Build & Flash](#build--flash) · [Project Structure](#project-structure) · [Dependencies](#dependencies) · [License](#license)
 
 ---
 
@@ -174,3 +178,7 @@ Managed automatically by PlatformIO:
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+*Keywords: ESP32, handheld game console, retro games, SSD1306 OLED, MPU6050 IMU, tilt controls, FreeRTOS, PlatformIO, embedded, C++, Arduino framework.*
